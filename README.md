@@ -1,1 +1,1 @@
-# GameTalker
+# Discord.js-Bot-Development
